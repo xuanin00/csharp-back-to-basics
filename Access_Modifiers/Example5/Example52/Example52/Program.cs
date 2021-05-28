@@ -1,11 +1,11 @@
-﻿using Example41;
+﻿using Example51;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Example42
+namespace Example52
 {
     //Second project (ASSEMBLY)
     class Program : NumberClassInFirstProject //Inheritance

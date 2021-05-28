@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="Example51">
-      <HintPath>..\..\Example51\Example51\bin\Debug\net5.0\Example51.dll</HintPath>
+    <Reference Include="Example61">
+      <HintPath>..\..\Example61\Example61\bin\Debug\net5.0\Example61.dll</HintPath>
     </Reference>
   </ItemGroup>
 
